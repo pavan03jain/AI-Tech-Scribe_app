@@ -1,0 +1,15 @@
+# Web Interface
+streamlit==1.55.0
+
+# AI Transcription & Logic
+faster-whisper==1.2.1
+groq==0.18.0
+
+# PDF Generation
+fpdf2==2.8.2
+
+# Audio Processing (Required by faster-whisper)
+av==14.1.0
+
+# Environment Management
+python-dotenv==1.0.1
